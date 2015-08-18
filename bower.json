@@ -1,0 +1,21 @@
+{
+  "name": "apg",
+  "version": "1.0.0",
+  "authors": [
+    "Leonard Laput <online.lorno@gmail.com>"
+  ],
+  "description": "Phaser Build of APG",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "phaser": "~2.4.2",
+    "lodash": "~3.10.1"
+  }
+}

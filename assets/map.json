@@ -1,0 +1,44 @@
+{ "height":6,
+ "layers":[
+        {
+         "compression":"zlib",
+         "data":"eJxjYBjcgJGAPAAA4AAC",
+         "encoding":"base64",
+         "height":6,
+         "name":"bg",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":8,
+         "x":0,
+         "y":0
+        }],
+ "nextobjectid":1,
+ "orientation":"orthogonal",
+ "properties":
+    {
+
+    },
+ "renderorder":"right-down",
+ "tileheight":100,
+ "tilesets":[
+        {
+         "firstgid":1,
+         "image":"images\/bg-blue.jpg",
+         "imageheight":600,
+         "imagewidth":800,
+         "margin":0,
+         "name":"bg_blue",
+         "properties":
+            {
+
+            },
+         "spacing":0,
+         "tilecount":1,
+         "tileheight":600,
+         "tilewidth":800
+        }],
+ "tilewidth":100,
+ "version":1,
+ "width":8
+}
